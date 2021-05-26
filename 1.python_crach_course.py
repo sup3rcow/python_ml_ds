@@ -61,3 +61,6 @@ def moja_funkcija():
     print('moja func')
 moja_funkcija()
 # %%
+# kasnije cemo korisitit
+lambda var: var*2
+# %%
