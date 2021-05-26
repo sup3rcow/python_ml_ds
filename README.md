@@ -7,3 +7,15 @@ instaliras sve dependecije iz requirements.txt-a u pipfile
 sa naredbom iz pipfilea kreiras requirements.txt
 pipenv lock -r > requirements.txt
 
+-------
+moras iskljuciti auto save za jupyter fajlove, kako bi fukcioniralo spremanje
+u user settings.json iznad
+"files.autoSave": "onFocusChange",
+
+dodas
+
+"files.exclude": {
+    "**/.ipynb": true,
+},
+
+------------------
