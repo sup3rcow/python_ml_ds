@@ -19,3 +19,7 @@ dodas
 },
 
 ------------------
+
+ako napravis discard changes, moras zatvoriti otvoreni ipynb fajl i opet ga otvoriti
+
+------
