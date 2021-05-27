@@ -8,6 +8,8 @@ sa naredbom iz pipfilea kreiras requirements.txt
 pipenv lock -r > requirements.txt
 
 -------
+https://code.visualstudio.com/docs/getstarted/settings
+
 moras iskljuciti auto save za jupyter fajlove, kako bi fukcioniralo spremanje
 u user settings.json iznad
 "files.autoSave": "onFocusChange",
