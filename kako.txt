@@ -1,0 +1,5 @@
+
+postavka ako zelis jupyter fajlove da nemas auto save
+    "files.exclude": {
+        "**/.ipynb": true,
+    },
